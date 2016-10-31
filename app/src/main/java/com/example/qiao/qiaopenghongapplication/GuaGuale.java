@@ -23,7 +23,7 @@ public class GuaGuale extends View {
 
     private Paint mPaint;// 橡皮檫路径画笔
 
-    private Path mPath;// 橡皮擦绘制路径
+    private Path mPath;// 橡皮擦绘制路径..
 
     private float x, y;
     public GuaGuale(Context context) {
